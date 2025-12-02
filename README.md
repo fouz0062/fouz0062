@@ -55,7 +55,7 @@ When I'm not untangling complex features, you can find me **making art, doodling
 
 - **🌱 Currently Learning:** Deep diving into **ReactNative** for mobile application development.
 - **💬 Ask Me About:** **ReactJs, TypeScript, Next.js,** and **UI/UX implementation**.
-- **🔗 All My Projects:** [https://fouz0062.github.io/myPortfolio/](https://fouz0062.github.io/myPortfolio/)
+- **🔗 All My Projects:** [https://fouz0062.github.io/myPortfolio/](https://fouziportfolio.vercel.app/#education)
 
 <br>
 
